@@ -27,7 +27,7 @@ Version control systems are categorized into **Centralized Version Control Syste
 
 
 #### Git Working
-![image]<img width="619" height="172" alt="image" src="https://github.com/user-attachments/assets/222962d5-adfb-403c-b590-84d43aee8d0b" />
+![image]https://github.com/ashu-1808/GIT-GITHUB/blob/a09b1cd428be28d3b5bcd03ab283b148e3079464/git-workflow.webp
 
 
 
