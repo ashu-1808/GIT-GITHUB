@@ -13,10 +13,10 @@ cd OnCdec-B29
 ## set up identity
 
 ````
-git config --global user.name "abhipray"
+git config --global user.name "ashu-1808"
 ````
 ````
-git config --global user.email "abhipraydhoble@outlook.com"
+git config --global user.email "ashutoshtoradmal@gmail.com"
 ````
 
 ## create files
