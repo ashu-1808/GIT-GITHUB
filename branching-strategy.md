@@ -1,5 +1,4 @@
-![image]<img width="1305" height="577" alt="image" src="https://github.com/user-attachments/assets/167ff56b-ea87-450a-9729-169b51c7d128" />
-
+![Git Branching Strategy](https://raw.githubusercontent.com/ashu-1808/GIT-GITHUB/749465d6935d795200b4be26c368d598c4d27968/Branching%20stratergy.png)
 ## create new branch
 ````
 git branch feature
