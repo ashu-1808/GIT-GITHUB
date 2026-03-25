@@ -26,9 +26,10 @@ Version control systems are categorized into **Centralized Version Control Syste
 | **Examples** | SVN, Perforce, CVS | Git, Mercurial, Bazaar |
 
 
-#### Git Working
-![image]https://github.com/ashu-1808/GIT-GITHUB/blob/a09b1cd428be28d3b5bcd03ab283b148e3079464/git-workflow.webp
 
+### 🔄 Git Workflow
+
+![Git Workflow](https://raw.githubusercontent.com/ashu-1808/GIT-GITHUB/a09b1cd428be28d3b5bcd03ab283b148e3079464/git-workflow.webp)
 
 
 
