@@ -1,5 +1,5 @@
 # Git Working
-<img width="1056" height="616" alt="image" src="https://github.com/user-attachments/assets/e38f19ef-b738-45c7-a7e1-d5ae78576358" />
+<img src="https://github.com/ashu-1808/GIT-GITHUB/blob/53a734a121809d51053f2e6fc6e68d481f888b38/git-workflow.jpg" width="100%" />
 
 # Authentication type https:
 ## Download github repository to local server 
